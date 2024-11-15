@@ -1,4 +1,3 @@
-# Jimil Digaswala 21BAI1001
 # AR Logistics Pro
 
 ## Brief Description of the Project
